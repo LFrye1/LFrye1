@@ -1,10 +1,8 @@
 ## Hi there 👋
-Hi, my name is Lakin Frye, though please feel free to call me "Lake". I'm very excited to start my software developer journey!
+Hi, my name is Lakin Frye, though please feel free to call me "Lake". I’ve always been the type of person who thrives in solving problems, but what really excites me is building the right team to tackle those challenges together. Whether I was leading teams in the social services field to help at-risk youth, or diving into the dynamic world of software development, one thing has always remained constant: my passion for creating solutions that make a meaningful difference.
 
-Pronouns: She/Her
+Over the years, I've honed my ability to empathize, communicate, and guide others toward a common goal. In my previous work, I’ve led teams that made a real impact, empowering young people to overcome obstacles and build a better future. Now, I’m channeling that energy into the tech world, where I can combine my problem-solving skills with the power of innovation to create transformative solutions.
 
-I live in Pittsburgh, PA and my hobbies include traveling, paddleboarding, reading, and playing video and board games.
+Currently, as I pursue my Full-Stack Developer certification at Tech Elevator, I’m sharpening my skills in Java, HTML, CSS, JavaScript, and SQL. I'm also gaining experience in tackling real-world challenges, and working with teams to develop dynamic applications and solutions. I’m passionate about the endless possibilities in software development and the way technology can transform industries, enhance lives, and drive progress.
 
-Currently, I work in the social services field. I have a Siberian Husky named Mulder, who is always quite mischievous!
-
-I'm always open to feedback or additional learning opportunities!
+If you’re working on a project that could benefit from a fresh perspective or need a dedicated team member who’s not afraid of a challenge, let’s connect! I’m always up for new opportunities and collaborations, and I’d love to explore how we can make a lasting impact together.
