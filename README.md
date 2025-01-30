@@ -7,6 +7,4 @@ I live in Pittsburgh, PA and my hobbies include traveling, paddleboarding, readi
 
 Currently, I work in the social services field. I have a Siberian Husky named Mulder, who is always quite mischievous!
 
-I'm always open for feedback or additional learning opportunities!
-
-Let's have a great term!!!
+I'm always open to feedback or additional learning opportunities!
